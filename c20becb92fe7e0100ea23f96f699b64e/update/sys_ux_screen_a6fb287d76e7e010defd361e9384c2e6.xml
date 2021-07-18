@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Upstox Holdings Config">5efb287d2fe7e0100ea23f96f699b658</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Task rejected">2afb287d59e7e010c5d2f891e9893cdd</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Task rejected Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Task rejected">a2fb287dc1e7e010d339b6902c297ccd</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-16 16:42:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a6fb287d76e7e010defd361e9384c2e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_ux_screen_a6fb287d76e7e010defd361e9384c2e6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-16 16:42:06</sys_updated_on>
+    </sys_ux_screen>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Stocks Dashboard</name>
+        <static_content><![CDATA[<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="font-family: &#39;arial black&#39;, &#39;avant garde&#39;; font-size: 18pt;"><strong>STOCKS DASHBOARD</strong></span></p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 14:05:02</sys_created_on>
+        <sys_id>0e4a3a3887897410eda643fc0ebb35f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Stocks Dashboard</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>content_block_static_0e4a3a3887897410eda643fc0ebb35f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 14:13:04</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e4a3a3887897410eda643fc0ebb35f8"/>
+</record_update>

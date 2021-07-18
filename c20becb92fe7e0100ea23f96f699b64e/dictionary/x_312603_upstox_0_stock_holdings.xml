@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Stock holdings" max_length="40" name="x_312603_upstox_0_stock_holdings" sizeclass="48" type="collection">
+        <element label="Avg Rate" max_length="20" name="avg_rate" type="decimal"/>
+        <element label="Closing Amt" max_length="20" name="closing_amt" type="decimal"/>
+        <element label="Closing Rate" max_length="20" name="closing_rate" type="decimal"/>
+        <element label="Closing Rate Date" max_length="40" name="closing_rate_date" type="glide_date"/>
+        <element label="ISIN" max_length="40" name="isin" type="string"/>
+        <element label="Open Amt" max_length="20" name="open_amt" type="decimal"/>
+        <element label="Open Qty" max_length="40" name="open_qty" type="integer"/>
+        <element function_definition="glidefunction:divide(open_amt,open_qty)" function_field="true" label="Average value" max_length="40" name="rpt_average_value" read_only="true" type="integer"/>
+        <element attributes="format=none" label="Scrip Code" max_length="40" name="scrip_code" type="integer"/>
+        <element display="true" label="Scrip Name" max_length="250" name="scrip_name" type="string"/>
+        <element label="Unrealized Profit and Loss" max_length="20" name="unrealized_p_l" type="decimal"/>
+        <element label="Unrealized P/L percentage" max_length="20" name="unrealized_p_l_percentage" type="decimal"/>
+        <element label="Sold" max_length="40" name="u_sold" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Symbol" max_length="40" name="u_symbol" type="string"/>
+        <index name="index">
+            <element name="scrip_code"/>
+        </index>
+    </element>
+</database>

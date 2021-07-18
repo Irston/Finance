@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Upstox Holdings Config">5efb287d2fe7e0100ea23f96f699b658</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "cknlmjswiaaaabblddbiiiiqeegddggqye",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_312603_upstox_0.CANVAS_MODAL#OPENED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+  "sourceEventDefinition" : {
+    "apiName" : "x_312603_upstox_0.CANVAS_MODAL#OPENED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.CANVAS_MODAL#OPENED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalInstanceId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalInstanceId" ]
+            }
+          }
+        }
+      },
+      "sysId" : "cb20fe111bfbe34acdb06b39d3da6462"
+    },
+    "operation" : null,
+    "targetId" : "cknlmjswiaaaabbkddbiiiijjexbbbcfg",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckhbsbbdiidaaaaddcddhhhqllgffboti",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_312603_upstox_0.NAV_ITEM_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+  "sourceEventDefinition" : {
+    "apiName" : "x_312603_upstox_0.NAV_ITEM_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "ckhbsbbdiidaaaaddbddhhhqxjeevlfoq",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckhbsbbdccggaaaaddiiddhhhqibccggpyeed",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_312603_upstox_0.MODAL_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+  "sourceEventDefinition" : {
+    "apiName" : "x_312603_upstox_0.MODAL_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.MODAL_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalId" ]
+            }
+          },
+          "showModal" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "showModal" ]
+            }
+          },
+          "displayOptions" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayOptions" ]
+            }
+          },
+          "bare" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "bare" ]
+            }
+          }
+        }
+      },
+      "sysId" : "882eed4091382d3a41f1bb3f382ae089"
+    },
+    "operation" : null,
+    "targetId" : "ckhbsbbdccggaaaaddhhddhhhqbpfflffoqu",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckhddggoiimxaaaaaasddhhhiifdaateixm",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "c20becb92fe7e0100ea23f96f699b64e.MODAL_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+  "sourceEventDefinition" : {
+    "apiName" : "c20becb92fe7e0100ea23f96f699b64e.MODAL_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.MODAL_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalId" ]
+            }
+          },
+          "showModal" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "showModal" ]
+            }
+          },
+          "displayOptions" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayOptions" ]
+            }
+          },
+          "bare" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          }
+        }
+      },
+      "sysId" : "882eed4091382d3a41f1bb3f382ae089"
+    },
+    "operation" : null,
+    "targetId" : "ckhddggoiimxaaaaaarddhhhiiqvuzggzsc",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckghhccwmjjyaaaaaaeddhhhgtxuccbwnw",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "global.NAV_ITEM_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+  "sourceEventDefinition" : {
+    "apiName" : "global.NAV_ITEM_SELECTED_RELAY_e6fb287d0fe7e01054378d60527187eb",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "ckghhccwmjjyaaaaaadddhhhgffcceifcoff",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Landing Page">e6fb287d0fe7e01054378d60527187eb</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Landing Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Landing Page">66fb287dd6e7e010a5a2ff20ebbb4dce</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-16 16:42:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>aefb287dbee7e010aec1f29cee1147e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Landing Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_ux_screen_aefb287dbee7e010aec1f29cee1147e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-17 10:55:43</sys_updated_on>
+    </sys_ux_screen>
+</record_update>

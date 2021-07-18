@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_settings_x_312603_upstox_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-16 16:42:08</sys_created_on>
+        <sys_id>2efb287d96e7e010d32d1efea0addeea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal settings (x_312603_upstox_0 )</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_ui_view_2efb287d96e7e010d32d1efea0addeea</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-16 16:42:08</sys_updated_on>
+        <title>Custom portal settings (x_312603_upstox_0 )</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

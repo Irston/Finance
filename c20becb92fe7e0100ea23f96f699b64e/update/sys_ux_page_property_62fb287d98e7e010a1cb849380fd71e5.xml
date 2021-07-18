@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Upstox Holdings">5afb287d2fe7e0100ea23f96f699b658</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">2afb287deee7e010e9d119f7433884ce</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-16 16:42:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>62fb287d98e7e010a1cb849380fd71e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_ux_page_property_62fb287d98e7e010a1cb849380fd71e5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-16 16:42:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_312603_upstox_0.5afb287d2fe7e0100ea23f96f699b658.route.chrome_header.2afb287deee7e010e9d119f7433884ce</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=62fb287d98e7e010a1cb849380fd71e5"/>
+</record_update>
