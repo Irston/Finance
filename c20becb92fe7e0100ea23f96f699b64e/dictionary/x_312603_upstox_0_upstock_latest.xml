@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Upstock_latest" max_length="40" name="x_312603_upstox_0_upstock_latest" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=Current Qty" label="Current Qty" max_length="40" name="u_current_qty" type="integer"/>
+        <element attributes="import_attribute_name=Freeze Qty" label="Freeze Qty" max_length="40" name="u_freeze_qty" type="integer"/>
+        <element attributes="import_attribute_name=Free Qty" label="Free Qty" max_length="40" name="u_free_qty" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ISIN" label="ISIN" max_length="40" name="u_isin" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ISIN Name" label="ISIN Name" max_length="40" name="u_isin_name" type="string"/>
+        <element attributes="import_attribute_name=Locked Qty" label="Locked Qty" max_length="40" name="u_locked_qty" type="integer"/>
+        <element attributes="import_attribute_name=Pledge Qty" label="Pledge Qty" max_length="40" name="u_pledge_qty" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rate" label="Rate" max_length="40" name="u_rate" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Valuation" label="Valuation" max_length="40" name="u_valuation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value Date" label="Value Date" max_length="40" name="u_value_date" type="string"/>
+    </element>
+</database>

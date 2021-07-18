@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Personal Spending" max_length="40" name="x_312603_upstox_0_personal_spending" sizeclass="859" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Chq./Ref.No." max_length="40" name="chq_ref_no" type="string"/>
+        <element label="Closing Balance" max_length="15" name="closing_balance" type="decimal"/>
+        <element label="Deposit Amt." max_length="15" name="deposit_amt" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Narration" max_length="97" name="narration" type="string"/>
+        <element label="Transaction Date" max_length="40" name="transaction_date" type="glide_date"/>
+        <element label="Value Date" max_length="40" name="value_date" type="glide_date"/>
+        <element label="Withdrawal Amt." max_length="15" name="withdrawal_amt" type="decimal"/>
+        <index name="index">
+            <element name="chq_ref_no"/>
+        </index>
+    </element>
+</database>

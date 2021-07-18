@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Bank Account details" max_length="40" name="x_312603_upstox_0_bank_account_details" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Chq./Ref.No." label="Chq./Ref.No." max_length="40" name="u_chq__ref_no_" type="string"/>
+        <element attributes="import_attribute_name=Closing Balance" label="Closing Balance" max_length="15" name="u_closing_balance" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="import_attribute_name=Deposit Amt." label="Deposit Amt." max_length="15" name="u_deposit_amt_" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Narration" label="Narration" max_length="97" name="u_narration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value Dt" label="Value Dt" max_length="40" name="u_value_dt" type="string"/>
+        <element attributes="import_attribute_name=Withdrawal Amt." label="Withdrawal Amt." max_length="15" name="u_withdrawal_amt_" type="decimal"/>
+    </element>
+</database>

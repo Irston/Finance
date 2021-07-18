@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>tradenum</col_name_string>
+        <index_col_name element="tradenum" name="x_312603_upstox_0_upstox_trades">c12096b487457410eda643fc0ebb354a</index_col_name>
+        <logical_table_name>x_312603_upstox_0_upstox_trades</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-06-27 11:08:47</sys_created_on>
+        <sys_id>87221ef887457410eda643fc0ebb3564</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_312603_upstox_0_upstox_trades</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_index_x_312603_upstox_0_upstox_trades_tradenum</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-27 11:08:47</sys_updated_on>
+        <table display_value="Upstox Trades" name="x_312603_upstox_0_upstox_trades">282056b487457410eda643fc0ebb35c1</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

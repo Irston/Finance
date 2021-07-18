@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Upstox Trades" max_length="40" name="x_312603_upstox_0_upstox_trades" sizeclass="489" type="collection">
+        <element label="Amt" max_length="15" name="amt" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Company" max_length="200" name="company" type="string"/>
+        <element active="false" attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Expiry" max_length="40" name="expiry" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Instrument Type" max_length="40" name="instrument_type" type="string"/>
+        <element label="Price" max_length="15" name="price" type="decimal"/>
+        <element label="Qty" max_length="40" name="qty" type="integer"/>
+        <element label="Scrip Code" max_length="40" name="scrip_code" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Segment" max_length="40" name="segment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Side" max_length="40" name="side" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Strike" max_length="40" name="strike" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TradeNum" max_length="40" name="tradenum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TradeTime" max_length="40" name="tradetime" type="string"/>
+        <element label="Trade date" max_length="40" name="trade_date" type="glide_date"/>
+        <index name="index">
+            <element name="tradenum"/>
+        </index>
+    </element>
+</database>

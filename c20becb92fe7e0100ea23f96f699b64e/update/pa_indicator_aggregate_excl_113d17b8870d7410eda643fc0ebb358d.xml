@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_aggregate_excl">
+    <pa_indicator_aggregate_excl action="INSERT_OR_UPDATE">
+        <aggregate display_value="7d running AVG">9ef05051d7001100ba986f14ce610372</aggregate>
+        <indicator display_value="Total Amount of Portfolio">5a2a87b8870d7410eda643fc0ebb3595</indicator>
+        <sys_class_name>pa_indicator_aggregate_excl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 16:36:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>113d17b8870d7410eda643fc0ebb358d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7d running AVG.Total Amount of Portfolio</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>pa_indicator_aggregate_excl_113d17b8870d7410eda643fc0ebb358d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 16:36:37</sys_updated_on>
+    </pa_indicator_aggregate_excl>
+</record_update>

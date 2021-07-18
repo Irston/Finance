@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Stock Dashboard - New Tab">3e661ba02fff24100ea23f96f699b603</grid_canvas>
+        <height>27</height>
+        <portal_widget display_value="Created 25/04/2021 11:40:30 PM">da8697a02fff24100ea23f96f699b6fa</portal_widget>
+        <posx>0</posx>
+        <posy>3</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-25 18:10:30</sys_created_on>
+        <sys_id>668697a02fff24100ea23f96f699b6fc</sys_id>
+        <sys_mod_count>52</sys_mod_count>
+        <sys_name>3e661ba02fff24100ea23f96f699b603</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_668697a02fff24100ea23f96f699b6fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-03 05:38:31</sys_updated_on>
+        <width>7</width>
+    </sys_grid_canvas_pane>
+</record_update>

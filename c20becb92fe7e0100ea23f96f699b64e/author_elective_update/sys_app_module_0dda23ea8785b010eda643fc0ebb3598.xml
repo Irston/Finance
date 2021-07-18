@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Upstox 0 1625285126319</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_312603_upstox_0_1625285126319</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-03 04:05:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0dda23ea8785b010eda643fc0ebb3598</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upstox 0 1625285126319</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_app_module_0dda23ea8785b010eda643fc0ebb3598</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-03 04:05:29</sys_updated_on>
+        <timeline_page/>
+        <title>Upstox 0 1625285126319</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</application>
+        <file_path/>
+        <instance_id>42d3ebe2dbecd3c06578f22ebf9619d3</instance_id>
+        <instance_name>dev51335</instance_name>
+        <name>sys_app_module_0dda23ea8785b010eda643fc0ebb3598</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Upstox 0 1625285126319</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_312603_upstox_0_1625285126319</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-03 04:05:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0dda23ea8785b010eda643fc0ebb3598</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Upstox 0 1625285126319</sys_name><sys_overrides/><sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package><sys_policy/><sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope><sys_update_name>sys_app_module_0dda23ea8785b010eda643fc0ebb3598</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-03 04:05:29</sys_updated_on><timeline_page/><title>Upstox 0 1625285126319</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2090867186</payload_hash>
+        <record_name>Upstox 0 1625285126319</record_name>
+        <reverted_from/>
+        <source>ce0becb92fe7e0100ea23f96f699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-03 04:05:29</sys_created_on>
+        <sys_id>01da23ea8785b010eda643fc0ebb359c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a6a8af6d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-03 04:05:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>09da23ea9485b010f95edbc504e3ef9b</update_guid>
+        <update_guid_history>09da23ea9485b010f95edbc504e3ef9b:2090867186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Upstox 0 1625285126319">152bafea8785b010eda643fc0ebb35d6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-03 04:06:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1e5db00ce64344d0919af21259437b10</sys_id>
+        <sys_metadata>0dda23ea8785b010eda643fc0ebb3598</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upstox 0 1625285126319</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_scope_delete display_value="">47f6669ab532464aa292307cacfa2c64</sys_scope_delete>
+        <sys_update_name>sys_app_module_0dda23ea8785b010eda643fc0ebb3598</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0dda23ea8785b010eda643fc0ebb3598">01da23ea8785b010eda643fc0ebb359c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-03 04:06:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

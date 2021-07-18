@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Stock Dashboard - New Tab">3e661ba02fff24100ea23f96f699b603</grid_canvas>
+        <height>5</height>
+        <portal_widget display_value="Created 27/06/2021 10:54:44 PM">02382bb08701b410eda643fc0ebb354b</portal_widget>
+        <posx>0</posx>
+        <posy>3</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 17:24:44</sys_created_on>
+        <sys_id>02382bb08701b410eda643fc0ebb354e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>3e661ba02fff24100ea23f96f699b603</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_02382bb08701b410eda643fc0ebb354e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 17:24:56</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</application>
+        <file_path/>
+        <instance_id>42d3ebe2dbecd3c06578f22ebf9619d3</instance_id>
+        <instance_name>dev51335</instance_name>
+        <name>sys_grid_canvas_pane_02382bb08701b410eda643fc0ebb354e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Stock Dashboard - New Tab">3e661ba02fff24100ea23f96f699b603</grid_canvas><height>5</height><portal_widget display_value="Created 27/06/2021 10:54:44 PM">02382bb08701b410eda643fc0ebb354b</portal_widget><posx>0</posx><posy>3</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-27 17:24:44</sys_created_on><sys_id>02382bb08701b410eda643fc0ebb354e</sys_id><sys_mod_count>3</sys_mod_count><sys_name>3e661ba02fff24100ea23f96f699b603</sys_name><sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package><sys_policy/><sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope><sys_update_name>sys_grid_canvas_pane_02382bb08701b410eda643fc0ebb354e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-27 17:24:56</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1276969816</payload_hash>
+        <record_name>3e661ba02fff24100ea23f96f699b603</record_name>
+        <reverted_from/>
+        <source>ce0becb92fe7e0100ea23f96f699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 17:24:56</sys_created_on>
+        <sys_id>c548aff887cd7410eda643fc0ebb35a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a4e80b7f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 17:24:56</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>8d48aff8ddcd7410f42c8957261760a5</update_guid>
+        <update_guid_history>8d48aff8ddcd7410f42c8957261760a5:-1276969816,1c48e7b0c801b410ae404fc7b4ca1949:-307388793,1f382bb04d01b41042a2e24fed5f08c6:-233116924,8a382bb0a601b410a5c624b2f7b9754f:448426172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-27 17:32:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>70e75983fa594a10b309968f9349e710</sys_id>
+        <sys_metadata>02382bb08701b410eda643fc0ebb354e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e661ba02fff24100ea23f96f699b603</sys_name>
+        <sys_package display_value="Upstox Holdings" source="x_312603_upstox_0">c20becb92fe7e0100ea23f96f699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Upstox Holdings">c20becb92fe7e0100ea23f96f699b64e</sys_scope>
+        <sys_scope_delete display_value="">47f6669ab532464aa292307cacfa2c64</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_02382bb08701b410eda643fc0ebb354e</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_02382bb08701b410eda643fc0ebb354e">c548aff887cd7410eda643fc0ebb35a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-27 17:32:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Upstox Stock holdings" max_length="40" name="x_312603_upstox_0_u_upstox_holdings" sizeclass="129" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Avg Rate" label="Avg Rate" max_length="40" name="u_avg_rate" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Buy/Sell" label="Buy/Sell" max_length="40" name="u_buy_sell" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Closing Amt" label="Closing Amt" max_length="40" name="u_closing_amt" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Closing Rate" label="Closing Rate" max_length="40" name="u_closing_rate" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Closing Rate Date" label="Closing Rate Date" max_length="40" name="u_closing_rate_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Closing Rate Exchange" label="Closing Rate Exchange" max_length="40" name="u_closing_rate_exchange" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=&#10;Holding - Keystone - RKSV" label="&#10;Holding - Keystone - RKSV" max_length="40" name="u_holding___keystone___rksv" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ISIN" label="ISIN" max_length="40" name="u_isin" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="40" name="u_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L" label="L" max_length="40" name="u_l" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=M" label="M" max_length="40" name="u_m" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N" label="N" max_length="40" name="u_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Open Amt" label="Open Amt" max_length="40" name="u_open_amt" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Open Qty" label="Open Qty" max_length="40" name="u_open_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Scrip Code" label="Scrip Code" max_length="40" name="u_scrip_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Scrip Name" label="Scrip Name" max_length="40" name="u_scrip_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Scrip Opt" label="Scrip Opt" max_length="40" name="u_scrip_opt" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unrealized P&amp;L" label="Unrealized P&amp;L" max_length="40" name="u_unrealized_p_l" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unrealized P&amp;L %" label="Unrealized P&amp;L %" max_length="40" name="u_unrealized_p_l__" type="string"/>
+    </element>
+</database>
